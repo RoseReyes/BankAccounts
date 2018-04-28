@@ -1,0 +1,30 @@
+@{
+    ViewData["Title"] = "Dashboard";
+}
+@model bank.Models.Transaction
+<div class="row">
+    <div class="d-inline-block">
+        <h3>Welcome, @TempData["name"]</h3>
+    </div>
+</div>
+<form action="withdrawdeposit" method="post">
+    <p><label for="withdrawdeposit">Withdraw/Deposit</label>
+    <input type="number" name="withdrawdeposit">
+    <input type="submit" name="submit" value="Submit"></p>
+</form>
+@{
+    for(int i=0; i < @ViewBag.AccountInfo.Count; i++)
+    {
+        <p>Balance: $@ViewBag.AccountInfo[i].Balance</p>;
+        <p>---------- Transaction History ----------</p>
+        <p>Transaction: $@ViewBag.AccountInfo[i].Transaction </p>;
+        <p>Transaction Date: @ViewBag.AccountInfo[i].TransactionDate</p>;
+    }
+}
+<form action="logout" method="post">
+    <input type="submit" name="Logout" value="Log Out">
+</form>
+
+
+
+

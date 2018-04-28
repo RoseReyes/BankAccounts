@@ -1,0 +1,10 @@
+/Users/rose/Desktop/DojoAssignments/netCore/ASP.Net/EntityFramework/bank/bin/Debug/netcoreapp2.0/bank.deps.json
+/Users/rose/Desktop/DojoAssignments/netCore/ASP.Net/EntityFramework/bank/bin/Debug/netcoreapp2.0/bank.runtimeconfig.json
+/Users/rose/Desktop/DojoAssignments/netCore/ASP.Net/EntityFramework/bank/bin/Debug/netcoreapp2.0/bank.runtimeconfig.dev.json
+/Users/rose/Desktop/DojoAssignments/netCore/ASP.Net/EntityFramework/bank/bin/Debug/netcoreapp2.0/bank.dll
+/Users/rose/Desktop/DojoAssignments/netCore/ASP.Net/EntityFramework/bank/bin/Debug/netcoreapp2.0/bank.pdb
+/Users/rose/Desktop/DojoAssignments/netCore/ASP.Net/EntityFramework/bank/obj/Debug/netcoreapp2.0/bank.csproj.CoreCompileInputs.cache
+/Users/rose/Desktop/DojoAssignments/netCore/ASP.Net/EntityFramework/bank/obj/Debug/netcoreapp2.0/bank.AssemblyInfoInputs.cache
+/Users/rose/Desktop/DojoAssignments/netCore/ASP.Net/EntityFramework/bank/obj/Debug/netcoreapp2.0/bank.AssemblyInfo.cs
+/Users/rose/Desktop/DojoAssignments/netCore/ASP.Net/EntityFramework/bank/obj/Debug/netcoreapp2.0/bank.dll
+/Users/rose/Desktop/DojoAssignments/netCore/ASP.Net/EntityFramework/bank/obj/Debug/netcoreapp2.0/bank.pdb

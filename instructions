@@ -1,0 +1,19 @@
+
+        // [HttpPost]
+        // [Route("validate-login")]
+        // public IActionResult Validatelogin(LoginViewModel model)
+        // {
+        //     if(ModelState.IsValid)
+        //     {
+        //         User NewUser = new User
+        //         {
+        //             Email = model.Email,
+        //             Password = model.UPassword,
+        //         };
+        //         return RedirectToAction("display","MainPage");
+        //     }
+        //     return View("Login");
+        // } 
+    }
+}
+
